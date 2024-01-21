@@ -1,11 +1,11 @@
 # Hi there! I'm Liander Vinicius 
 
 ## Github Stats
-  <div>
-    <a href="https://github.com/Lianderdev">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lianderdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
+  <div style="display: flex">
+      <a href="https://github.com/Lianderdev">
+      <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Lianderdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&layout=compact&langs_count=16&theme=dracula"/>
+  </div><br><br><br><br><br><br><br><br>
       
 ## Languages
   <div style="display: inline_block"> 
