@@ -9,7 +9,6 @@
       
 ## Languages
   <div style="display: inline_block"> 
-    <img align="right" alt="" height="200" src="https://i.pinimg.com/564x/63/77/e8/6377e83dfb1ef72285cdd96f7ae7d6dc.jpg"> 
     <img align="center" alt="liander-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
     <img align="center" alt="liander-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="liander-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
