@@ -3,8 +3,8 @@
 ## Github Stats
   <div>
       <a href="https://github.com/Lianderdev">
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Lianderdev&show_icons=true&theme=dracula"/>
-      <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&layout=compact&langs_count=16&theme=dracula"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=dark&hide_border=false"/>
+      <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&layout=compact&langs_count=16&theme=dark"/>
   </div>
       
 ## Languages
