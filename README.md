@@ -19,9 +19,6 @@
     <img align="center" alt="liander-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img align="center" alt="liander-JS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
     <img align="center" alt="liander-JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-    <div>
-    <img align="right" height="195em" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"
-    </div>
   </div> <br>
 
 ## Contacts
@@ -29,6 +26,10 @@
     <a href = "mailto:liandervinicius13a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href = "https://www.linkedin.com/in/liander-vinicius-088403258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div> <br>
+<br>
+  <div>
+    <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"
+  </div>
   
 
 
