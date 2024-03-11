@@ -2,7 +2,7 @@
 
 📚 Acadêmico em Ciência da Computação <br>
 👨‍💻 Apaixonado por tecnologia <br>
-📧 Email para contato: liandervincius13@gmail.com
+📧 Email para contato: liandervinicius13@gmail.com
 
 ## Github Stats
 
