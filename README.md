@@ -5,7 +5,7 @@
 
 
 # Seja Bem Vindo ao meu Git Hub ✌
-## Meu nome é Liander ⚡
+## Meu nome é Liander Souza ⚡
 
 - 📚 Acadêmico em Ciência da Computação <br>
 - 👨‍💻 Desenvolvedor Front-end <br>
