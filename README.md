@@ -1,7 +1,7 @@
 
- <div>
-    <img height="220em" align="right" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"
-  </div>
+<div>
+    <img height="220em" align="right" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
+</div>
 
 
 # Seja Bem Vindo ao meu Git Hub ✌
@@ -29,9 +29,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=dark&hide_border=false"/>
       <img height="195em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&size_weight=0.5&count_weight=0.5&theme=dark" src="https://github.com/anuraghazra/github-readme-stats"/>
   </div>
+
+## Links 🔗
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-liander.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liander-vinicius/)
       
-<br>
-
-  
-
-
