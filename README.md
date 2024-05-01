@@ -1,11 +1,9 @@
+# Seja Bem Vindo ao meu Git Hub ✌
+## Meu nome é Liander Souza ⚡
 
 <div>
     <img height="220em" align="right" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
 </div>
-
-
-# Seja Bem Vindo ao meu Git Hub ✌
-## Meu nome é Liander Souza ⚡
 
 - 📚 Acadêmico em Ciência da Computação <br>
 - 👨‍💻 Desenvolvedor Front-end <br>
@@ -20,6 +18,11 @@
     <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+    <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "> 
+
+      
   </div>
   
 ## Estatísticas 📈
