@@ -1,9 +1,5 @@
-# Seja Bem Vindo ao meu Git Hub ✌
-## Meu nome é Liander Souza ⚡
 
-<div>
-    <img height="220em" align="right" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
-</div>
+
 
 - 📚 Acadêmico em Ciência da Computação <br>
 - 👨‍💻 Desenvolvedor Front-end <br>
@@ -29,11 +25,13 @@
 
   <div>
       <a href="https://github.com/Lianderdev">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=dark&hide_border=false"/>
-      <img height="195em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&size_weight=0.5&count_weight=0.5&theme=dark" src="https://github.com/anuraghazra/github-readme-stats"/>
+      <img width= "60%" height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=holi-theme&hide_border=false"/>
+      <img width= "35%" height="240em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&size_weight=0.5&count_weight=0.5&theme=holi-theme&hide_border=false" src="https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 
 ## Links 🔗
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-liander.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liander-vinicius/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
       
