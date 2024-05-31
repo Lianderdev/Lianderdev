@@ -1,12 +1,12 @@
+<div align="center"> 
+  <img width="100%" src="https://github.com/Lianderdev/Lianderdev/assets/127912394/8ebb7105-3d06-45d9-8b85-2eef3cb78d88">
+</div>
 
+## Sobre min
+Sou acadêmico em Ciência da Computação e desenvolvedor front-end. Estou sempre buscando aprender algo novo e aprimorar minhas habilidades diariamente. Se quiser entrar em contato comigo, envie um e-mail para liandervinicius13@gmail.com.
+<br>
 
-
-- 📚 Acadêmico em Ciência da Computação <br>
-- 👨‍💻 Desenvolvedor Front-end <br>
--  ⏳ Aprendendo diariamente
-- 📧 Email para contato: liandervinicius13@gmail.com
-
-## Ferramentas 🛠
+## Ferramentas
   <div style="display: inline_block"> 
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,19 +17,21 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
     <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "> 
-
-      
   </div>
+
+  <br>
   
-## Estatísticas 📈
+## Estatísticas
 
   <div>
       <a href="https://github.com/Lianderdev">
-      <img width= "60%" height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=holi-theme&hide_border=false"/>
-      <img width= "35%" height="240em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&size_weight=0.5&count_weight=0.5&theme=holi-theme&hide_border=false" src="https://github.com/anuraghazra/github-readme-stats"/>
+      <img width= "60%" height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=icegray&hide_border=false"/>
+      <img width= "35%" height="240em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&size_weight=0.5&count_weight=0.5&theme=icegray"  src="https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 
-## Links 🔗
+  <br>
+
+## Links 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-liander.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liander-vinicius/)
 
