@@ -32,7 +32,7 @@ Sou acadêmico em Ciência da Computação e desenvolvedor front-end. Estou semp
   <br>
 
 ## Links 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-liander.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://portfolio-liander.vercel.app/](https://portfolio-liander-souza.vercel.app/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liander-vinicius/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
