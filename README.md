@@ -16,6 +16,7 @@
       <img alt="figma" src="https://img.shields.io/badge/Figma-141321?style=for-the-badge&logo=figma"> 
       <img alt="vercel" src="https://img.shields.io/badge/Vercel-141321?style=for-the-badge&logo=vercel"> 
       <img alt="git" src="https://img.shields.io/badge/GIT-141321?style=for-the-badge&logo=git"> 
+     <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-141321?style=for-the-badge&logo=tailwind-css">
    </div>
 </div>
 
@@ -29,7 +30,7 @@
 
 ### Links 
 <div>
-  <a href="https://portfolio-liander-souza.vercel.app/" target="_blank">
+  <a href="https://lianderdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
   </a>
   <a href="https://www.linkedin.com/in/liander-vinicius/" target="_blank">
