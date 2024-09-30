@@ -16,6 +16,14 @@ Sou acadêmico de Ciência da Computação, atualmente no 6º semestre, e apaixo
    </div>
 </div>
 
+### Stats
+  <div>
+      <a href="https://github.com/Lianderdev">  
+      <img width= "60%" height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lianderdev&theme=radical&hide_border=false"/>
+      <img width= "35%" height="240em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianderdev&theme=radical&size_weight=0.5&count_weight=0.5"  
+       src="https://github.com/anuraghazra/github-readme-stats"/>
+  </div>
+
 
 ### Links 
 <div>
