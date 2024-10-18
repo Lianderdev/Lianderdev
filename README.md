@@ -5,14 +5,14 @@ Sou acadêmico de Ciência da Computação, atualmente no 6º semestre, e apaixo
           
   ### I code whit
   <div style="display: colunm"> 
-      <img alt="html" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"> 
-      <img alt="css" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
-      <img alt="javascrpit" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor"> 
-      <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-      <img alt="figma" src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma"> 
-      <img alt="vercel" src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel"> 
-      <img alt="git" src="https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git"> 
-     <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css">
+      <img alt="html" src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5"> 
+      <img alt="css" src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=1572B6">
+      <img alt="javascrpit" src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor"> 
+      <img alt="React" src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+      <img alt="figma" src="https://img.shields.io/badge/Figma-141321?style=for-the-badge&logo=figma"> 
+      <img alt="vercel" src="https://img.shields.io/badge/Vercel-141321?style=for-the-badge&logo=vercel"> 
+      <img alt="git" src="https://img.shields.io/badge/GIT-141321?style=for-the-badge&logo=git"> 
+     <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-141321?style=for-the-badge&logo=tailwind-css">
    </div>
 </div>
 
