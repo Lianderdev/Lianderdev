@@ -27,7 +27,7 @@ Sou acadêmico de Ciência da Computação, atualmente no 6º semestre, e apaixo
 
 ### Links 
 <div>
-  <a href="https://lianderdev-portfolio.vercel.app/" target="_blank">
+  <a href="https://website-liander.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-gray?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
   </a>
   <a href="https://www.linkedin.com/in/liander-vinicius/" target="_blank">
